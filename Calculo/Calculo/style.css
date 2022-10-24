@@ -1,0 +1,17 @@
+body {
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: linear-gradient(purple, rgb(173, 132, 173));
+    height: 100vh;
+}
+
+    #numero{
+    font-size:25px;
+}
+
+    #resposta{
+        font-weight: bolder;
+        font-size: 40px;
+        color: aliceblue;
+    }
+
